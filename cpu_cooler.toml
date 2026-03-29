@@ -1,0 +1,7 @@
+vendor_id = "0xaa88"
+product_id = "0x8666"
+update_interval_secs = 1
+cpu_sensor_keywords = ["k10temp", "cpu"]
+
+# Example environment variable usage:
+# CPU_COOLER_CONFIG=/path/to/cpu_cooler.toml cargo run
